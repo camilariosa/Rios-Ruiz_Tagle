@@ -6,12 +6,12 @@
 body{
 	background:rgba(255,255,255,1);
 	color:rgba(25,25,25,1);
-	font-family: 'IBM Plex Serif', serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight:300;
 }
 
 h1, h2, h3, h4{
-	font-family: 'Spectral SC', serif;
+	font-family: 'Montserrat', sans-serif; 
 	font-weight:700;
 }
 
